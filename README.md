@@ -6,10 +6,10 @@ It provides REST APIs for authentication, event management, registrations, and a
 📌 Project Overview
 
 The backend is responsible for:
-User authentication (students & coordinators)
-Event creation and management
-Course/event registration
-Attendance tracking
+User authentication (students & coordinators)\
+Event creation and management\
+Course/event registration\
+Attendance tracking\
 Role-based access control
 
 This project is developed as part of Web Technologies (WT) coursework.
