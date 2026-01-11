@@ -16,10 +16,10 @@ This project is developed as part of Web Technologies (WT) coursework.
 
 🛠️ Tech Stack
 
-Node.js
-Express.js
-MongoDB
-Mongoose
-JWT Authentication
-Nodemailer
+Node.js,
+Express.js,
+MongoDB,
+Mongoose,
+JWT Authentication,
+Nodemailer,
 Node-cron
