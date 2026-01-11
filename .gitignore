@@ -1,0 +1,9 @@
+# Ignore frontend completely
+frontend/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
